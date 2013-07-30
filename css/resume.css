@@ -1,0 +1,15 @@
+#resume {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	text-align: center;
+	padding: 5px;
+	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+	background: url("../images/linedpaper.png") repeat scroll 0 0 transparent;
+}
+
+#resume-body {
+	text-align: left;
+	padding-left: 50px;
+	padding-right: 50px;
+}
