@@ -3,13 +3,24 @@
 	margin-right: auto;
 	width: 70%;
 	text-align: center;
-	padding: 5px;
-	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+	padding: 50px;
+	font-family: "Josefin Slab", "Courier Bold", Courier, Georgia, "Times New Roman", serif;
 	background: url("../images/linedpaper.png") repeat scroll 0 0 transparent;
+
+	-webkit-box-shadow: 0 0 14px rgba(0, 0, 0, 1), inset 0 0 50px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 0 14px rgba(0, 0, 0, 1), inset 0 0 50px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 15px rgba(0, 0, 0, 1), inset 0 0 50px rgba(0, 0, 0, 0.1);
 }
 
 #resume-body {
 	text-align: left;
-	padding-left: 50px;
-	padding-right: 50px;
+}
+
+.sub-header {
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Arvo', serif;
+	font-weight: normal;
 }
